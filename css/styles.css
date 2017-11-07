@@ -1,0 +1,72 @@
+body {
+    color: #ff0000;
+background-image:url(../images/background.jpg);
+        background-size: cover;
+     background-position: center;
+     height: 100vh;
+}
+
+h1 {
+    color: yellow;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: red;
+    font-family: sans-serif;
+}
+
+.h2-special {
+    color:white;
+}
+
+h3 {
+    font-family: sans-serif;
+}
+
+p {
+    color: white;
+    background-color: rgba(250, 0, 0, 10);
+    border-radius: 40px;
+    padding: 10px;
+    width: 50%;
+    margin-top: .5%;
+    margin-right: 25%;
+    margin-left: 3%;
+    margin-bottom: 25px;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+.h2menu {
+    font-family: sans-serif;
+    color: white
+}
+
+.topics {
+    text-transform: uppercase;
+    text-decoration-color: #ff0000;
+    font-size: 170%;
+    padding: 40px
+}
+
+.mac {background-color: rgba(0, 0, 0, .8);
+    padding: 10px;
+    width: 50%;
+    margin-top: .5%;
+    margin-right: 25%;
+    margin-left: 3%;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.service { padding: 10px;
+    margin-right: 5%;
+    margin-left: 15%;
+}
+
+.mission {
+    text-align: center
+}
