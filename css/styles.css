@@ -67,6 +67,13 @@ p {
     margin-left: 15%;
 }
 
-.mission {
-    text-align: center
+.main-text-box {
+    position: absolute;
+    width: 700px;
+    top: 65%;
+    left: 40%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
 }
