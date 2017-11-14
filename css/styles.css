@@ -17,11 +17,15 @@ h2 {
 }
 
 .h2-special {
-    color:white;
+    color: yellow;
 }
 
 h3 {
     font-family: sans-serif;
+}
+
+.mission {
+    color: white
 }
 
 p {
@@ -76,4 +80,26 @@ p {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     text-align: center;
+}
+
+div.info-box {
+    background-color: red;
+    border: 2px solid;
+    padding: 25px;
+    font-size: 25px;
+    color: aliceblue;
+    float: right;
+}
+
+div.careers-box {
+    background-color: red;
+    border: 2px solid;
+    padding: 25px;
+    font-size: 25px;
+    color: aliceblue;
+    float: right;
+}
+
+.clear-me {
+    clear:right;
 }
